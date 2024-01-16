@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "homepage": "https://lives-in-virgosupercluster.github.io/Chip_Component",
+    "homepage": "https://lives-in-virgosupercluster.github.io/",
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
     "build": "react-scripts build",
