@@ -1,9 +1,10 @@
 import './App.css';
+import ChipComponent from './components/ChipComponent';
 
 function App() {
   return (
     <div className="App">
-     <p>creating chip component</p>
+   <ChipComponent></ChipComponent>
     </div>
   );
 }
